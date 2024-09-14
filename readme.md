@@ -1,3 +1,7 @@
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoUnpacker-Windows-GUI.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoUnpacker-Windows-GUI/total.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoUnpacker-Windows-GUI/latest/total.svg)](https://github.com/Wilenty/InnoUnpacker-Windows-GUI/releases/latest)
+
 ### Inno Setup Unpacker - Windows GUI
 
 #### Inspect and unpack InnoSetup archives
